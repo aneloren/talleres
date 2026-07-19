@@ -3,7 +3,7 @@
     "id": "talleres_base",
     "titulo": "Talleres Base de Crianza y Autocuidado",
     "modalidad": "🟢 En vivo / Online",
-    "imagenUrl": "/crianza.png",
+    "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/crianza.png",
     "detalles": [
       "Acceso ilimitado a la videoteca mensual",
       "Sesiones grupales de apoyo online",
@@ -18,7 +18,7 @@
     "id": "taller_lactancia",
     "titulo": "Técnica de Lactancia Materna Avanzada",
     "modalidad": "🟢 En vivo / Online",
-    "imagenUrl": "/lactancia.png",
+    "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/lactancia.png",
     "detalles": [
       "Clase magistral online de 2 horas",
       "Guía práctica de agarre y postura",
@@ -33,7 +33,7 @@
     "id": "taller_rcp",
     "titulo": "RCP Infantil y Primeros Auxilios Prácticos",
     "modalidad": "📍 Presencial (Cupos Limitados)",
-    "imagenUrl": "/rcp.png",
+    "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/rcp.png",
     "detalles": [
       "Sesión 100% práctica presencial",
       "Uso de fantomas pediátricos certificados",
