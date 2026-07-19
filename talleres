@@ -1,0 +1,47 @@
+[
+  {
+    "id": "talleres_base",
+    "titulo": "Talleres Base de Crianza y Autocuidado",
+    "modalidad": "🟢 En vivo / Online",
+    "imagenUrl": "/images/crianza.png",
+    "detalles": [
+      "Acceso ilimitado a la videoteca mensual",
+      "Sesiones grupales de apoyo online",
+      "Material descargable de crianza respetuosa"
+    ],
+    "precioGeneral": 5990,
+    "precioComunidad": 0,
+    "esMembresia": true,
+    "botonTexto": "Probar Mes Gratis ✨"
+  },
+  {
+    "id": "taller_lactancia",
+    "titulo": "Técnica de Lactancia Materna Avanzada",
+    "modalidad": "🟢 En vivo / Online",
+    "imagenUrl": "/images/lactancia.png",
+    "detalles": [
+      "Clase magistral online de 2 horas",
+      "Guía práctica de agarre y postura",
+      "Grupo de seguimiento por 7 días"
+    ],
+    "precioGeneral": 25000,
+    "precioComunidad": 19990,
+    "esMembresia": false,
+    "botonTexto": "Inscribirme en 1-clic ⚡"
+  },
+  {
+    "id": "taller_rcp",
+    "titulo": "RCP Infantil y Primeros Auxilios Prácticos",
+    "modalidad": "📍 Presencial (Cupos Limitados)",
+    "imagenUrl": "/images/rcp.png",
+    "detalles": [
+      "Sesión 100% práctica presencial",
+      "Uso de fantomas pediátricos certificados",
+      "Guía de emergencias para el hogar"
+    ],
+    "precioGeneral": 40000,
+    "precioComunidad": 32000,
+    "esMembresia": false,
+    "botonTexto": "Reservar Cupo en 1-clic ⚡"
+  }
+]
