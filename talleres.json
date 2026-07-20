@@ -6,8 +6,8 @@
     "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/comunidad.png",
     "detalles": [
       "Acceso ilimitado a la videoteca mensual",
-      "Sesiones grupales de apoyo online",
-      "Material descargable de crianza respetuosa"
+      "Encuentros online para conversar y conectar con otras mamás",
+      "Material descargable"
     ],
     "precioGeneral": 5990,
     "precioComunidad": 0,
@@ -17,17 +17,17 @@
   {
     "id": "taller_lactancia",
     "titulo": "Técnica de Lactancia Materna Avanzada",
-    "modalidad": "📍 Presencial (Cupos Limitados)",
+    "modalidad": "🟢 Online",
     "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/lactancia.png",
     "detalles": [
-      "Clase magistral presencial de 2 horas",
+      "Clase magistral online de 2 horas",
       "Guía práctica de agarre y postura",
       "Grupo de seguimiento por 7 días"
     ],
     "precioGeneral": 25000,
     "precioComunidad": 19990,
     "esMembresia": false,
-    "botonTexto": "Inscribirme en 1-clic ⚡"
+    "botonTexto": "Inscripción en 1-clic ⚡"
   },
   {
     "id": "taller_rcp",
