@@ -40,8 +40,34 @@
       "Guía de emergencias para el hogar"
     ],
     "precioGeneral": 40000,
-    "precioComunidad": 32000,
+    "precioComunidad": 32990,
     "esMembresia": false,
     "botonTexto": "Reservar Cupo en 1-clic ⚡"
   }
+   {
+    "id": "taller_hipotensivos",
+    "titulo": "Hipotensivos y Yoga",
+    "modalidad": "🟢 Online",
+    "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/hipotensivos.png",
+    "detalles": [
+      "4 sesiones online mensual",
+      "Ayuda a prevenir y mejorar disfunciones del piso pélvico"
+    ],
+    "precioGeneral": 25000,
+    "precioComunidad": 19990,
+    "esMembresia": false,
+    "botonTexto": "Inscripción en 1-clic ⚡"
+      {
+    "id": "taller_masaje",
+    "titulo": "Masajes para el bebé",
+    "modalidad": "🟢 Online",
+    "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/masaje.png",
+    "detalles": [
+      "Video masaje infantil+ E-Book",
+      "El masaje infantil nos permitirá entregar afecto, contención y amor a nuestros bebés"
+    ],
+    "precioGeneral": 12000,
+    "precioComunidad": 7990,
+    "esMembresia": false,
+    "botonTexto": "Inscripción en 1-clic ⚡"
 ]
