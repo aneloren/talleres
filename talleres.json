@@ -70,4 +70,17 @@
     "precioComunidad": 7990,
     "esMembresia": false,
     "botonTexto": "Inscripción en 1-clic ⚡"
+      {
+    "id": "taller_encuentros",
+    "titulo": "Encuentro mensual Contigo Mamá",
+    "modalidad": "📍 Presencial (Cupos Limitados)",
+    "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/encuentros.png",
+    "detalles": [
+      "Encuentro presencial para donde podrás compartir y conocer a otras mujeres en tu misma etapa",
+    ],
+    "precioGeneral": 16000,
+    "precioComunidad": 11990,
+    "esMembresia": false,
+    "botonTexto": "Reservar Cupo en 1-clic ⚡"
+  }
 ]
