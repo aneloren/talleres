@@ -11,7 +11,7 @@
     ],
     "precioComunidad": 11990,
     "esMembresia": true,
-    "botonTexto": "Probar Mes Gratis ✨"
+    "botonTexto": "Empezar mi Prueba 1 Mes Gratis ✨"
   },
  {
     "id": "talleres_encuentros",
@@ -27,7 +27,7 @@
     ]
     "precioComunidad": 24990,
     "esMembresia": true,
-    "botonTexto": "Probar Mes Gratis ✨"
+    "botonTexto": "Inscríbete 1 click ✨"
   },
 
    {
@@ -46,6 +46,6 @@
     ],
     "precioComunidad": 49990,
     "esMembresia": true,
-    "botonTexto": "Probar Mes Gratis ✨"
+    "botonTexto": "Inscríbete 1 click ✨"
   },
 ]
