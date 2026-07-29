@@ -2,7 +2,7 @@
   {
     "id": "talleres_comunidad",
     "titulo": "Plan Semilla",
-    "modalidad": "🟢 Online/Presencial",
+    "modalidad": "🟢 Online",
     "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/crianza.png",
     "detalles": [
       "Material descargable"
@@ -34,10 +34,10 @@
     "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/comunidad.png",
     "detalles": [
       "Material descargable"
-      "Talleres de lactancia materna"
-      "Clases de yoga, fortalecimiento de piso pélvico e hipopresivos"
-      "Taller de RCP infantil y Primeros Auxilios"
-      "Talleres de nutrición y lactancia saludable"
+      "Talleres presenciales/online de lactancia materna"
+      "Clases presenciales/online de yoga, fortalecimiento de piso pélvico e hipopresivos"
+      "Taller presencial de RCP infantil y Primeros Auxilios"
+      "Talleres online de nutrición y lactancia saludable"
       "Encuentros online para conversar y conectar con otras mamás",
       "Encuentro presencial donde podrás compartir y conocer a otras mujeres en tu misma etapa",
     ],
