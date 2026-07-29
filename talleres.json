@@ -3,15 +3,14 @@
     "id": "talleres_comunidad",
     "titulo": "Plan Semilla",
     "modalidad": "🟢 Online/Presencial",
-    "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/comunidad.png",
+    "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/crianza.png",
     "detalles": [
       "Material descargable"
       "Encuentros online para conversar y conectar con otras mamás",
-      "Encuentro presencial para donde podrás compartir y conocer a otras mujeres en tu misma etapa",
     ],
     "precioComunidad": 11990,
     "esMembresia": true,
-    "botonTexto": "Prueba 1 Mes Gratis ✨"
+    "botonTexto": "Prueba 3 Meses Gratis ✨"
   },
  {
     "id": "talleres_encuentros",
@@ -20,8 +19,6 @@
     "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/encuentros.png",
     "detalles": [
       "Material descargable"
-      "Clases lactancia materna"
-      "Clases hipotensivos y yoga"
       "Encuentros online para conversar y conectar con otras mamás",
       "Encuentro presencial para donde podrás compartir y conocer a otras mujeres en tu misma etapa",
     ]
@@ -34,7 +31,7 @@
     "id": "talleres_crianza",
     "titulo": "Plan Florecer",
     "modalidad": "🟢 Online/Presencial",
-    "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/crianza.png",
+    "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/comunidad.png",
     "detalles": [
       "Material descargable"
       "Clases lactancia materna"
