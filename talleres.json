@@ -8,9 +8,9 @@
       "Material descargable"
       "Encuentros online para conversar y conectar con otras mamás",
     ],
-    "precioComunidad": 11990,
+    "precioComunidad": 0,
     "esMembresia": true,
-    "botonTexto": "Prueba 3 Meses Gratis ✨"
+    "botonTexto": "Inscríbete gratis ✨"
   },
  {
     "id": "talleres_encuentros",
@@ -18,9 +18,10 @@
     "modalidad": "🟢 Online/Presencial",
     "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/encuentros.png",
     "detalles": [
-      "Material descargable"
-      "Encuentros online para conversar y conectar con otras mamás",
-      "Encuentro presencial donde podrás compartir y conocer a otras mujeres en tu misma etapa",
+      "Encuentros presenciales mensuales de vinculación y comunidad",
+      "Círculos online guiados para conectar con madres en tu etapa",
+      "Acceso a talleres mensuales de crianza y lactancia",
+      "Guías digitales y material descargable de apoyo"
     ]
     "precioComunidad": 24990,
     "esMembresia": true,
@@ -33,13 +34,11 @@
     "modalidad": "🟢 Online/Presencial",
     "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/comunidad.png",
     "detalles": [
-      "Material descargable"
-      "Talleres presenciales/online de lactancia materna"
-      "Clases presenciales/online de yoga, fortalecimiento de piso pélvico e hipopresivos"
-      "Taller presencial de RCP infantil y Primeros Auxilios"
-      "Talleres online de nutrición y lactancia saludable"
-      "Encuentros online para conversar y conectar con otras mamás",
-      "Encuentro presencial donde podrás compartir y conocer a otras mujeres en tu misma etapa",
+    "Todos los beneficios y encuentros del Plan Creciendo Juntas",
+    "Clases continuas de yoga posparto, hipopresivos y piso pélvico",
+    "Talleres certificados de RCP infantil, primeros auxilios y nutrición",
+    "Sesiones mensuales de orientación en vivo con especialistas de salud",
+    "Acceso total a biblioteca de recursos y masterclasses grabadas"
     ],
     "precioComunidad": 49990,
     "esMembresia": true,
