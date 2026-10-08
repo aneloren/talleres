@@ -1,10 +1,25 @@
-[
+[ 
   {
     "id": "talleres_comunidad",
-    "titulo": "Plan Semilla",
+    "titulo": "Gratis",
     "modalidad": "🟢 Online",
     "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/crianza.png",
     "detalles": [
+      "Conexión con pares"
+      "Sala privada por chat" 
+      "Hada madrina y comunidad"
+    ],
+    "precioComunidad": 0,
+    "esMembresia": true,
+    "botonTexto": "Inscríbete 1 click ✨"
+  },
+  {
+    "id": "talleres_comunidad",
+    "titulo": "Plan Semilla",
+    "modalidad": "🟢 Online/Presencial",
+    "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/gratis.png",
+    "detalles": [
+      "Todos los servicios del Plan Gratuito"
       "Comunidades guiadas por etapa del bebé"
       "Encuentros presenciales mensuales de vinculación y comunidad" 
       "Emparejamiento prioritario y biblioteca de contenidos grabados por especialistas"
