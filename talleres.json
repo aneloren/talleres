@@ -5,12 +5,13 @@
     "modalidad": "🟢 Online",
     "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/crianza.png",
     "detalles": [
-      "Material descargable"
-      "Encuentros online para conversar y conectar con otras mamás",
+      "Comunidades guiadas por etapa del bebé"
+      "Encuentros presenciales mensuales de vinculación y comunidad" 
+      "Emparejamiento prioritario y biblioteca de contenidos grabados por especialistas"
     ],
-    "precioComunidad": 0,
+    "precioComunidad": 11990,
     "esMembresia": true,
-    "botonTexto": "Inscríbete gratis ✨"
+    "botonTexto": "Inscríbete 1 click ✨"
   },
  {
     "id": "talleres_encuentros",
@@ -18,10 +19,10 @@
     "modalidad": "🟢 Online/Presencial",
     "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/encuentros.png",
     "detalles": [
-      "Encuentros presenciales mensuales de vinculación y comunidad",
-      "Círculos online guiados para conectar con madres en tu etapa",
-      "Acceso a talleres mensuales de crianza y lactancia",
-      "Guías digitales y material descargable de apoyo"
+      "Comunidades guiadas por etapa del bebé"
+      "Encuentros presenciales mensuales de vinculación y comunidad" 
+      "Emparejamiento prioritario y biblioteca de contenidos grabados por especialistas"
+      "Talleres grupales en vivo y charlas técnicas mensuales con profesionales"
     ]
     "precioComunidad": 24990,
     "esMembresia": true,
@@ -34,11 +35,11 @@
     "modalidad": "🟢 Online/Presencial",
     "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/comunidad.png",
     "detalles": [
-    "Todos los beneficios y encuentros del Plan Creciendo Juntas",
-    "Clases continuas de yoga posparto, hipopresivos y piso pélvico",
-    "Talleres certificados de RCP infantil, primeros auxilios y nutrición",
-    "Sesiones mensuales de orientación en vivo con especialistas de salud",
-    "Acceso total a biblioteca de recursos y masterclasses grabadas"
+    "Comunidades guiadas por etapa del bebé"
+    "Emparejamiento prioritario y biblioteca de contenidos grabados por especialistas"
+    "Encuentros presenciales mensuales de vinculación y comunidad" 
+    "Talleres grupales en vivo y charlas técnicas mensuales con profesionales"
+    "Crédito trimestral de sesión individual con una especialista y prioridad en consultas"
     ],
     "precioComunidad": 49990,
     "esMembresia": true,
