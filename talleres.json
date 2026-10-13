@@ -21,7 +21,6 @@
     "detalles": [
       "Todos los servicios del Plan Gratuito"
       "Comunidades guiadas por etapa del bebé"
-      "Encuentros presenciales mensuales de vinculación y comunidad" 
       "Emparejamiento prioritario y biblioteca de contenidos grabados por especialistas"
     ],
     "precioComunidad": 11990,
@@ -35,7 +34,8 @@
     "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/encuentros.png",
     "detalles": [
       "Todos los servicios del Plan Semilla"
-      "Talleres grupales en vivo y charlas técnicas mensuales con profesionales"
+      "Encuentros presenciales para vinculación y comunidad"
+      "Talleres grupales en vivo" 
     ]
     "precioComunidad": 24990,
     "esMembresia": true,
@@ -49,6 +49,7 @@
     "imagen": "https://raw.githubusercontent.com/aneloren/talleres/main/comunidad.png",
     "detalles": [
     "Todos los servicios del Plan Creciendo Juntas"
+    "Charlas técnicas mensuales con profesionales"
     "Crédito trimestral de sesión individual con una especialista y prioridad en consultas"
     ],
     "precioComunidad": 49990,
